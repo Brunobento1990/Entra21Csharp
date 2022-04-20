@@ -1,0 +1,14 @@
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaIMC\CalculaIMC\bin\Debug\netcoreapp3.1\CalculaIMC.exe
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaIMC\CalculaIMC\bin\Debug\netcoreapp3.1\CalculaIMC.deps.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaIMC\CalculaIMC\bin\Debug\netcoreapp3.1\CalculaIMC.runtimeconfig.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaIMC\CalculaIMC\bin\Debug\netcoreapp3.1\CalculaIMC.runtimeconfig.dev.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaIMC\CalculaIMC\bin\Debug\netcoreapp3.1\CalculaIMC.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaIMC\CalculaIMC\bin\Debug\netcoreapp3.1\CalculaIMC.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaIMC\CalculaIMC\obj\Debug\netcoreapp3.1\CalculaIMC.csproj.AssemblyReference.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaIMC\CalculaIMC\obj\Debug\netcoreapp3.1\CalculaIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaIMC\CalculaIMC\obj\Debug\netcoreapp3.1\CalculaIMC.AssemblyInfoInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaIMC\CalculaIMC\obj\Debug\netcoreapp3.1\CalculaIMC.AssemblyInfo.cs
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaIMC\CalculaIMC\obj\Debug\netcoreapp3.1\CalculaIMC.csproj.CoreCompileInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaIMC\CalculaIMC\obj\Debug\netcoreapp3.1\CalculaIMC.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaIMC\CalculaIMC\obj\Debug\netcoreapp3.1\CalculaIMC.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaIMC\CalculaIMC\obj\Debug\netcoreapp3.1\CalculaIMC.genruntimeconfig.cache

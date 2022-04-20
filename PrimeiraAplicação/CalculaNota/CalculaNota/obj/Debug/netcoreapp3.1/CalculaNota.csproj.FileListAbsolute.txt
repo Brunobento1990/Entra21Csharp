@@ -1,0 +1,14 @@
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaNota\CalculaNota\bin\Debug\netcoreapp3.1\CalculaNota.exe
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaNota\CalculaNota\bin\Debug\netcoreapp3.1\CalculaNota.deps.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaNota\CalculaNota\bin\Debug\netcoreapp3.1\CalculaNota.runtimeconfig.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaNota\CalculaNota\bin\Debug\netcoreapp3.1\CalculaNota.runtimeconfig.dev.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaNota\CalculaNota\bin\Debug\netcoreapp3.1\CalculaNota.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaNota\CalculaNota\bin\Debug\netcoreapp3.1\CalculaNota.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaNota\CalculaNota\obj\Debug\netcoreapp3.1\CalculaNota.csproj.AssemblyReference.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaNota\CalculaNota\obj\Debug\netcoreapp3.1\CalculaNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaNota\CalculaNota\obj\Debug\netcoreapp3.1\CalculaNota.AssemblyInfoInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaNota\CalculaNota\obj\Debug\netcoreapp3.1\CalculaNota.AssemblyInfo.cs
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaNota\CalculaNota\obj\Debug\netcoreapp3.1\CalculaNota.csproj.CoreCompileInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaNota\CalculaNota\obj\Debug\netcoreapp3.1\CalculaNota.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaNota\CalculaNota\obj\Debug\netcoreapp3.1\CalculaNota.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaNota\CalculaNota\obj\Debug\netcoreapp3.1\CalculaNota.genruntimeconfig.cache
