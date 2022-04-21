@@ -1,0 +1,14 @@
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalcularDistancia\CalcularDistancia\bin\Debug\netcoreapp3.1\CalcularDistancia.exe
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalcularDistancia\CalcularDistancia\bin\Debug\netcoreapp3.1\CalcularDistancia.deps.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalcularDistancia\CalcularDistancia\bin\Debug\netcoreapp3.1\CalcularDistancia.runtimeconfig.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalcularDistancia\CalcularDistancia\bin\Debug\netcoreapp3.1\CalcularDistancia.runtimeconfig.dev.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalcularDistancia\CalcularDistancia\bin\Debug\netcoreapp3.1\CalcularDistancia.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalcularDistancia\CalcularDistancia\bin\Debug\netcoreapp3.1\CalcularDistancia.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalcularDistancia\CalcularDistancia\obj\Debug\netcoreapp3.1\CalcularDistancia.csproj.AssemblyReference.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalcularDistancia\CalcularDistancia\obj\Debug\netcoreapp3.1\CalcularDistancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalcularDistancia\CalcularDistancia\obj\Debug\netcoreapp3.1\CalcularDistancia.AssemblyInfoInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalcularDistancia\CalcularDistancia\obj\Debug\netcoreapp3.1\CalcularDistancia.AssemblyInfo.cs
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalcularDistancia\CalcularDistancia\obj\Debug\netcoreapp3.1\CalcularDistancia.csproj.CoreCompileInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalcularDistancia\CalcularDistancia\obj\Debug\netcoreapp3.1\CalcularDistancia.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalcularDistancia\CalcularDistancia\obj\Debug\netcoreapp3.1\CalcularDistancia.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalcularDistancia\CalcularDistancia\obj\Debug\netcoreapp3.1\CalcularDistancia.genruntimeconfig.cache
