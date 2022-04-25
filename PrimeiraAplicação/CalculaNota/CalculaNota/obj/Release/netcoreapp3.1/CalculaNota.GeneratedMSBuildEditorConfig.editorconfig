@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = CalculaNota
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiraAplicação\CalculaNota\CalculaNota\
+=======
+build_property.ProjectDir = D:\CursoC\Aula-C-Entra21\Entra21Csharp\PrimeiraAplicação\CalculaNota\CalculaNota\
+>>>>>>> 5a5fc181437ab25e10e8793ec32d8479e97a4120
