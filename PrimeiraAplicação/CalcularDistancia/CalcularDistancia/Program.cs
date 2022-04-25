@@ -22,7 +22,6 @@ namespace CalcularDistancia
             r2 = Lat1 - Lat2;
             r11 = r1 * r1;
             r22 = r2 * r2;
-
             tot1 = r11 + r22;
             tot2 = tot1 * tot1;
 
