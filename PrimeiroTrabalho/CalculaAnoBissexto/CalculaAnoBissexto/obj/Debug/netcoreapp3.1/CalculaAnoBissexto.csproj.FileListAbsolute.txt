@@ -1,0 +1,14 @@
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculaAnoBissexto\CalculaAnoBissexto\bin\Debug\netcoreapp3.1\CalculaAnoBissexto.exe
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculaAnoBissexto\CalculaAnoBissexto\bin\Debug\netcoreapp3.1\CalculaAnoBissexto.deps.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculaAnoBissexto\CalculaAnoBissexto\bin\Debug\netcoreapp3.1\CalculaAnoBissexto.runtimeconfig.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculaAnoBissexto\CalculaAnoBissexto\bin\Debug\netcoreapp3.1\CalculaAnoBissexto.runtimeconfig.dev.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculaAnoBissexto\CalculaAnoBissexto\bin\Debug\netcoreapp3.1\CalculaAnoBissexto.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculaAnoBissexto\CalculaAnoBissexto\bin\Debug\netcoreapp3.1\CalculaAnoBissexto.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculaAnoBissexto\CalculaAnoBissexto\obj\Debug\netcoreapp3.1\CalculaAnoBissexto.csproj.AssemblyReference.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculaAnoBissexto\CalculaAnoBissexto\obj\Debug\netcoreapp3.1\CalculaAnoBissexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculaAnoBissexto\CalculaAnoBissexto\obj\Debug\netcoreapp3.1\CalculaAnoBissexto.AssemblyInfoInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculaAnoBissexto\CalculaAnoBissexto\obj\Debug\netcoreapp3.1\CalculaAnoBissexto.AssemblyInfo.cs
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculaAnoBissexto\CalculaAnoBissexto\obj\Debug\netcoreapp3.1\CalculaAnoBissexto.csproj.CoreCompileInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculaAnoBissexto\CalculaAnoBissexto\obj\Debug\netcoreapp3.1\CalculaAnoBissexto.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculaAnoBissexto\CalculaAnoBissexto\obj\Debug\netcoreapp3.1\CalculaAnoBissexto.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculaAnoBissexto\CalculaAnoBissexto\obj\Debug\netcoreapp3.1\CalculaAnoBissexto.genruntimeconfig.cache

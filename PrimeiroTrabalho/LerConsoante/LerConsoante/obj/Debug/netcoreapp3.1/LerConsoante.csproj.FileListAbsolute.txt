@@ -1,0 +1,13 @@
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\LerConsoante\LerConsoante\bin\Debug\netcoreapp3.1\LerConsoante.exe
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\LerConsoante\LerConsoante\bin\Debug\netcoreapp3.1\LerConsoante.deps.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\LerConsoante\LerConsoante\bin\Debug\netcoreapp3.1\LerConsoante.runtimeconfig.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\LerConsoante\LerConsoante\bin\Debug\netcoreapp3.1\LerConsoante.runtimeconfig.dev.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\LerConsoante\LerConsoante\bin\Debug\netcoreapp3.1\LerConsoante.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\LerConsoante\LerConsoante\bin\Debug\netcoreapp3.1\LerConsoante.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\LerConsoante\LerConsoante\obj\Debug\netcoreapp3.1\LerConsoante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\LerConsoante\LerConsoante\obj\Debug\netcoreapp3.1\LerConsoante.AssemblyInfoInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\LerConsoante\LerConsoante\obj\Debug\netcoreapp3.1\LerConsoante.AssemblyInfo.cs
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\LerConsoante\LerConsoante\obj\Debug\netcoreapp3.1\LerConsoante.csproj.CoreCompileInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\LerConsoante\LerConsoante\obj\Debug\netcoreapp3.1\LerConsoante.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\LerConsoante\LerConsoante\obj\Debug\netcoreapp3.1\LerConsoante.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\LerConsoante\LerConsoante\obj\Debug\netcoreapp3.1\LerConsoante.genruntimeconfig.cache

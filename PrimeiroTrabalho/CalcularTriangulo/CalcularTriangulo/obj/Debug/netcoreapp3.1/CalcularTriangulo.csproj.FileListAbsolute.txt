@@ -1,0 +1,14 @@
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalcularTriangulo\CalcularTriangulo\bin\Debug\netcoreapp3.1\CalcularTriangulo.exe
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalcularTriangulo\CalcularTriangulo\bin\Debug\netcoreapp3.1\CalcularTriangulo.deps.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalcularTriangulo\CalcularTriangulo\bin\Debug\netcoreapp3.1\CalcularTriangulo.runtimeconfig.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalcularTriangulo\CalcularTriangulo\bin\Debug\netcoreapp3.1\CalcularTriangulo.runtimeconfig.dev.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalcularTriangulo\CalcularTriangulo\bin\Debug\netcoreapp3.1\CalcularTriangulo.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalcularTriangulo\CalcularTriangulo\bin\Debug\netcoreapp3.1\CalcularTriangulo.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalcularTriangulo\CalcularTriangulo\obj\Debug\netcoreapp3.1\CalcularTriangulo.csproj.AssemblyReference.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalcularTriangulo\CalcularTriangulo\obj\Debug\netcoreapp3.1\CalcularTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalcularTriangulo\CalcularTriangulo\obj\Debug\netcoreapp3.1\CalcularTriangulo.AssemblyInfoInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalcularTriangulo\CalcularTriangulo\obj\Debug\netcoreapp3.1\CalcularTriangulo.AssemblyInfo.cs
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalcularTriangulo\CalcularTriangulo\obj\Debug\netcoreapp3.1\CalcularTriangulo.csproj.CoreCompileInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalcularTriangulo\CalcularTriangulo\obj\Debug\netcoreapp3.1\CalcularTriangulo.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalcularTriangulo\CalcularTriangulo\obj\Debug\netcoreapp3.1\CalcularTriangulo.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalcularTriangulo\CalcularTriangulo\obj\Debug\netcoreapp3.1\CalcularTriangulo.genruntimeconfig.cache
