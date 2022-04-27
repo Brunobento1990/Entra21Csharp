@@ -1,0 +1,14 @@
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\NumeroCrescente\NumeroCrescente\bin\Debug\netcoreapp3.1\NumeroCrescente.exe
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\NumeroCrescente\NumeroCrescente\bin\Debug\netcoreapp3.1\NumeroCrescente.deps.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\NumeroCrescente\NumeroCrescente\bin\Debug\netcoreapp3.1\NumeroCrescente.runtimeconfig.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\NumeroCrescente\NumeroCrescente\bin\Debug\netcoreapp3.1\NumeroCrescente.runtimeconfig.dev.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\NumeroCrescente\NumeroCrescente\bin\Debug\netcoreapp3.1\NumeroCrescente.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\NumeroCrescente\NumeroCrescente\bin\Debug\netcoreapp3.1\NumeroCrescente.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\NumeroCrescente\NumeroCrescente\obj\Debug\netcoreapp3.1\NumeroCrescente.csproj.AssemblyReference.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\NumeroCrescente\NumeroCrescente\obj\Debug\netcoreapp3.1\NumeroCrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\NumeroCrescente\NumeroCrescente\obj\Debug\netcoreapp3.1\NumeroCrescente.AssemblyInfoInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\NumeroCrescente\NumeroCrescente\obj\Debug\netcoreapp3.1\NumeroCrescente.AssemblyInfo.cs
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\NumeroCrescente\NumeroCrescente\obj\Debug\netcoreapp3.1\NumeroCrescente.csproj.CoreCompileInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\NumeroCrescente\NumeroCrescente\obj\Debug\netcoreapp3.1\NumeroCrescente.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\NumeroCrescente\NumeroCrescente\obj\Debug\netcoreapp3.1\NumeroCrescente.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\NumeroCrescente\NumeroCrescente\obj\Debug\netcoreapp3.1\NumeroCrescente.genruntimeconfig.cache
