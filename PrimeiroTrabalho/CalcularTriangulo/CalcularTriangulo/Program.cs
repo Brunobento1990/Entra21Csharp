@@ -25,6 +25,7 @@ namespace CalcularTriangulo
             if(lado1 == lado2 && lado1 == lado3)
             {
                 Console.WriteLine("Equilátero");
+                return;
             }
             if(lado1 == lado2 || lado1 == lado3 || lado2 == lado3)
             {
@@ -34,8 +35,6 @@ namespace CalcularTriangulo
             {
                 Console.WriteLine("Escaleno");
             }
-
-            
         }
     }
 }

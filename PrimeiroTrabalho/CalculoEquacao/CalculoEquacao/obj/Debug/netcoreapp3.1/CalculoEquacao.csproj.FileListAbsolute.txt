@@ -1,5 +1,0 @@
-C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculoEquacao\CalculoEquacao\obj\Debug\netcoreapp3.1\CalculoEquacao.csproj.AssemblyReference.cache
-C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculoEquacao\CalculoEquacao\obj\Debug\netcoreapp3.1\CalculoEquacao.GeneratedMSBuildEditorConfig.editorconfig
-C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculoEquacao\CalculoEquacao\obj\Debug\netcoreapp3.1\CalculoEquacao.AssemblyInfoInputs.cache
-C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculoEquacao\CalculoEquacao\obj\Debug\netcoreapp3.1\CalculoEquacao.AssemblyInfo.cs
-C:\Repositorio\MeusArquivos\Entra21Csharp\PrimeiroTrabalho\CalculoEquacao\CalculoEquacao\obj\Debug\netcoreapp3.1\CalculoEquacao.csproj.CoreCompileInputs.cache
