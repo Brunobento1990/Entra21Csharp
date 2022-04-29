@@ -1,0 +1,14 @@
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\NotaAluno\NotaAluno\bin\Debug\netcoreapp3.1\NotaAluno.exe
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\NotaAluno\NotaAluno\bin\Debug\netcoreapp3.1\NotaAluno.deps.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\NotaAluno\NotaAluno\bin\Debug\netcoreapp3.1\NotaAluno.runtimeconfig.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\NotaAluno\NotaAluno\bin\Debug\netcoreapp3.1\NotaAluno.runtimeconfig.dev.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\NotaAluno\NotaAluno\bin\Debug\netcoreapp3.1\NotaAluno.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\NotaAluno\NotaAluno\bin\Debug\netcoreapp3.1\NotaAluno.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\NotaAluno\NotaAluno\obj\Debug\netcoreapp3.1\NotaAluno.csproj.AssemblyReference.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\NotaAluno\NotaAluno\obj\Debug\netcoreapp3.1\NotaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\NotaAluno\NotaAluno\obj\Debug\netcoreapp3.1\NotaAluno.AssemblyInfoInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\NotaAluno\NotaAluno\obj\Debug\netcoreapp3.1\NotaAluno.AssemblyInfo.cs
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\NotaAluno\NotaAluno\obj\Debug\netcoreapp3.1\NotaAluno.csproj.CoreCompileInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\NotaAluno\NotaAluno\obj\Debug\netcoreapp3.1\NotaAluno.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\NotaAluno\NotaAluno\obj\Debug\netcoreapp3.1\NotaAluno.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\NotaAluno\NotaAluno\obj\Debug\netcoreapp3.1\NotaAluno.genruntimeconfig.cache

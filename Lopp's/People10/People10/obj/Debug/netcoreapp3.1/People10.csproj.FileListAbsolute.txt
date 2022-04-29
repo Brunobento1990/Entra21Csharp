@@ -1,0 +1,14 @@
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\People10\People10\bin\Debug\netcoreapp3.1\People10.exe
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\People10\People10\bin\Debug\netcoreapp3.1\People10.deps.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\People10\People10\bin\Debug\netcoreapp3.1\People10.runtimeconfig.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\People10\People10\bin\Debug\netcoreapp3.1\People10.runtimeconfig.dev.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\People10\People10\bin\Debug\netcoreapp3.1\People10.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\People10\People10\bin\Debug\netcoreapp3.1\People10.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\People10\People10\obj\Debug\netcoreapp3.1\People10.csproj.AssemblyReference.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\People10\People10\obj\Debug\netcoreapp3.1\People10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\People10\People10\obj\Debug\netcoreapp3.1\People10.AssemblyInfoInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\People10\People10\obj\Debug\netcoreapp3.1\People10.AssemblyInfo.cs
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\People10\People10\obj\Debug\netcoreapp3.1\People10.csproj.CoreCompileInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\People10\People10\obj\Debug\netcoreapp3.1\People10.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\People10\People10\obj\Debug\netcoreapp3.1\People10.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\People10\People10\obj\Debug\netcoreapp3.1\People10.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopLength\LoopLength\bin\Debug\netcoreapp3.1\LoopLength.exe
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopLength\LoopLength\bin\Debug\netcoreapp3.1\LoopLength.deps.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopLength\LoopLength\bin\Debug\netcoreapp3.1\LoopLength.runtimeconfig.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopLength\LoopLength\bin\Debug\netcoreapp3.1\LoopLength.runtimeconfig.dev.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopLength\LoopLength\bin\Debug\netcoreapp3.1\LoopLength.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopLength\LoopLength\bin\Debug\netcoreapp3.1\LoopLength.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopLength\LoopLength\obj\Debug\netcoreapp3.1\LoopLength.csproj.AssemblyReference.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopLength\LoopLength\obj\Debug\netcoreapp3.1\LoopLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopLength\LoopLength\obj\Debug\netcoreapp3.1\LoopLength.AssemblyInfoInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopLength\LoopLength\obj\Debug\netcoreapp3.1\LoopLength.AssemblyInfo.cs
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopLength\LoopLength\obj\Debug\netcoreapp3.1\LoopLength.csproj.CoreCompileInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopLength\LoopLength\obj\Debug\netcoreapp3.1\LoopLength.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopLength\LoopLength\obj\Debug\netcoreapp3.1\LoopLength.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopLength\LoopLength\obj\Debug\netcoreapp3.1\LoopLength.genruntimeconfig.cache
