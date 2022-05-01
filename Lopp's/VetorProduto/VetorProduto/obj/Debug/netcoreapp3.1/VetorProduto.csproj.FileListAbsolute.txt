@@ -1,0 +1,14 @@
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.exe
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.deps.json
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.runtimeconfig.json
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.runtimeconfig.dev.json
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.dll
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.pdb
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.csproj.AssemblyReference.cache
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.AssemblyInfoInputs.cache
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.AssemblyInfo.cs
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.csproj.CoreCompileInputs.cache
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.dll
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.pdb
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.genruntimeconfig.cache

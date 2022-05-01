@@ -1,0 +1,14 @@
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\bin\Debug\netcoreapp3.1\LoopComparação.exe
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\bin\Debug\netcoreapp3.1\LoopComparação.deps.json
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\bin\Debug\netcoreapp3.1\LoopComparação.runtimeconfig.json
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\bin\Debug\netcoreapp3.1\LoopComparação.runtimeconfig.dev.json
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\bin\Debug\netcoreapp3.1\LoopComparação.dll
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\bin\Debug\netcoreapp3.1\LoopComparação.pdb
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.csproj.AssemblyReference.cache
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.AssemblyInfoInputs.cache
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.AssemblyInfo.cs
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.csproj.CoreCompileInputs.cache
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.dll
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.pdb
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.genruntimeconfig.cache

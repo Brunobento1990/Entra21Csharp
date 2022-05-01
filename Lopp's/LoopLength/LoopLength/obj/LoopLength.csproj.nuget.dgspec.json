@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositorio\\MeusArquivos\\Entra21Csharp\\Lopp's\\LoopLength\\LoopLength\\LoopLength.csproj": {}
+    "D:\\CursoC\\Aula-C-Entra21\\Entra21Csharp\\Lopp's\\LoopLength\\LoopLength\\LoopLength.csproj": {}
   },
   "projects": {
-    "C:\\Repositorio\\MeusArquivos\\Entra21Csharp\\Lopp's\\LoopLength\\LoopLength\\LoopLength.csproj": {
+    "D:\\CursoC\\Aula-C-Entra21\\Entra21Csharp\\Lopp's\\LoopLength\\LoopLength\\LoopLength.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorio\\MeusArquivos\\Entra21Csharp\\Lopp's\\LoopLength\\LoopLength\\LoopLength.csproj",
+        "projectUniqueName": "D:\\CursoC\\Aula-C-Entra21\\Entra21Csharp\\Lopp's\\LoopLength\\LoopLength\\LoopLength.csproj",
         "projectName": "LoopLength",
-        "projectPath": "C:\\Repositorio\\MeusArquivos\\Entra21Csharp\\Lopp's\\LoopLength\\LoopLength\\LoopLength.csproj",
-        "packagesPath": "C:\\Users\\guest01\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorio\\MeusArquivos\\Entra21Csharp\\Lopp's\\LoopLength\\LoopLength\\obj\\",
+        "projectPath": "D:\\CursoC\\Aula-C-Entra21\\Entra21Csharp\\Lopp's\\LoopLength\\LoopLength\\LoopLength.csproj",
+        "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
+        "outputPath": "D:\\CursoC\\Aula-C-Entra21\\Entra21Csharp\\Lopp's\\LoopLength\\LoopLength\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\guest01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
