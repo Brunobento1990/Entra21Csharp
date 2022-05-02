@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\Repositorio\\MeusArquivos\\Entra21Csharp\\Lopp's\\NotaAluno\\NotaAluno\\NotaAluno.csproj",
         "projectName": "NotaAluno",
         "projectPath": "C:\\Repositorio\\MeusArquivos\\Entra21Csharp\\Lopp's\\NotaAluno\\NotaAluno\\NotaAluno.csproj",
-        "packagesPath": "C:\\Users\\guest01\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\bruno.goncalves4\\.nuget\\packages\\",
         "outputPath": "C:\\Repositorio\\MeusArquivos\\Entra21Csharp\\Lopp's\\NotaAluno\\NotaAluno\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\guest01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruno.goncalves4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

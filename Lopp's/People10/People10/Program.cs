@@ -6,6 +6,7 @@ namespace People10
     {
         static void Main(string[] args)
         {
+            // Faça um programa que receba o nome de 10 pessoas e retorne os nomes
             string[] pessoas = new string[10];
             
             for(int i = 0; i < pessoas.Length; i++)
