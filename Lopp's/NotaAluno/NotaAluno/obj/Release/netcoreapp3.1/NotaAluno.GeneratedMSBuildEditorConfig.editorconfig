@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = NotaAluno
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\NotaAluno\NotaAluno\
+=======
+build_property.ProjectDir = D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\NotaAluno\NotaAluno\
+>>>>>>> c3de1e39d2c7fe254cd3aa84aed5f04e071ec96f

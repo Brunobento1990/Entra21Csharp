@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "tgGuNvAhbBQKVv8GasCM4tof/PMERaIbK7r8d71XbV4GS97Lg044Oua/leUBvv3E/kdKxI9UVcpqnoTOpEPtwg==",
+=======
+  "dgSpecHash": "ZCkz+OuzZjH4X1I6PJ+ebnlhwOF2OB0zoiUl6PA2/rnjqH2i6+dgUPrNMAKGoI7PFXyi23RRWViwpMsS9y/juQ==",
+>>>>>>> c3de1e39d2c7fe254cd3aa84aed5f04e071ec96f
   "success": true,
-  "projectFilePath": "C:\\Repositorio\\MeusArquivos\\Entra21Csharp\\Lopp's\\NotaAluno\\NotaAluno\\NotaAluno.csproj",
+  "projectFilePath": "D:\\CursoC\\Aula-C-Entra21\\Entra21Csharp\\Lopp's\\NotaAluno\\NotaAluno\\NotaAluno.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

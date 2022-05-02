@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
+<<<<<<< HEAD
     "",
     "\\NotaAluno"
+=======
+    ""
+>>>>>>> c3de1e39d2c7fe254cd3aa84aed5f04e071ec96f
   ],
   "SelectedNode": "\\NotaAluno.sln",
   "PreviewInSolutionExplorer": false
