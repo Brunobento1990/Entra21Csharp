@@ -6,7 +6,7 @@ namespace LoopComparação
     {
         static void Main(string[] args)
         {
-            int contador =1;
+            int contador =0,contadorVetor=1;
             Console.WriteLine("--> Insira o número que será o tamanho do Vetor ");
             int tamVetor = Convert.ToInt32(Console.ReadLine());
 
@@ -26,11 +26,14 @@ namespace LoopComparação
                 {
                     if (vetor1[i] == vetor2[j])
                     {
-                        Console.WriteLine("--> O elemento "+ vetor1[i] +"  "+"se repetiu " + contador);
+                        //contadorVetor = vetor1[i];
+                       // Console.WriteLine("--> O elemento "+ vetor1[i] +"  "+"se repetiu " + contador);
                         contador++;
                     }
                 }
+               
             }
+            Console.WriteLine("--> O elemento  " + contadorVetor +"  " + "se repetiu " + contador);
         }
     }
 }

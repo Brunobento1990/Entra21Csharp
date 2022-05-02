@@ -12,3 +12,17 @@ D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\
 D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.dll
 D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.pdb
 D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.genruntimeconfig.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\bin\Debug\netcoreapp3.1\LoopComparação.exe
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\bin\Debug\netcoreapp3.1\LoopComparação.deps.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\bin\Debug\netcoreapp3.1\LoopComparação.runtimeconfig.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\bin\Debug\netcoreapp3.1\LoopComparação.runtimeconfig.dev.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\bin\Debug\netcoreapp3.1\LoopComparação.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\bin\Debug\netcoreapp3.1\LoopComparação.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.csproj.AssemblyReference.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.AssemblyInfoInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.AssemblyInfo.cs
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.csproj.CoreCompileInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopComparação\LoopComparação\obj\Debug\netcoreapp3.1\LoopComparação.genruntimeconfig.cache

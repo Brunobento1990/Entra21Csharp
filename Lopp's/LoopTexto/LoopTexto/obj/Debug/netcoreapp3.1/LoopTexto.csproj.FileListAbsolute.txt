@@ -1,0 +1,14 @@
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopTexto\LoopTexto\bin\Debug\netcoreapp3.1\LoopTexto.exe
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopTexto\LoopTexto\bin\Debug\netcoreapp3.1\LoopTexto.deps.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopTexto\LoopTexto\bin\Debug\netcoreapp3.1\LoopTexto.runtimeconfig.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopTexto\LoopTexto\bin\Debug\netcoreapp3.1\LoopTexto.runtimeconfig.dev.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopTexto\LoopTexto\bin\Debug\netcoreapp3.1\LoopTexto.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopTexto\LoopTexto\bin\Debug\netcoreapp3.1\LoopTexto.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopTexto\LoopTexto\obj\Debug\netcoreapp3.1\LoopTexto.csproj.AssemblyReference.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopTexto\LoopTexto\obj\Debug\netcoreapp3.1\LoopTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopTexto\LoopTexto\obj\Debug\netcoreapp3.1\LoopTexto.AssemblyInfoInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopTexto\LoopTexto\obj\Debug\netcoreapp3.1\LoopTexto.AssemblyInfo.cs
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopTexto\LoopTexto\obj\Debug\netcoreapp3.1\LoopTexto.csproj.CoreCompileInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopTexto\LoopTexto\obj\Debug\netcoreapp3.1\LoopTexto.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopTexto\LoopTexto\obj\Debug\netcoreapp3.1\LoopTexto.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\LoopTexto\LoopTexto\obj\Debug\netcoreapp3.1\LoopTexto.genruntimeconfig.cache
