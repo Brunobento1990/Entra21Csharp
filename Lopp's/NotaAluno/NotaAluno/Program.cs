@@ -9,13 +9,11 @@ namespace NotaAluno
             // Faça um programa que receba 10 notas de alunos
             // Retorne a média, a maior nota, e a menor nota
 
-            double[] nota = new double[3];
+            double[] nota = new double[10];
             double notaTot = nota[0];
-            double notMaior = 0, notMenor;
-            int i = 1;// Inicializado com 1 para o loop rodar -1 o tamanho do array
+            double notMaior = 0, notMenor = 10;
+            int i = 0;
             
-            Console.WriteLine("Digito a nota do aluno");
-            notMenor = Convert.ToDouble(Console.ReadLine());
             while( i < nota.Length )
             {
                 Console.WriteLine("Digito a nota do aluno");
@@ -31,7 +29,6 @@ namespace NotaAluno
                     notMenor = nota[i];
                 }
                 i++;
-
             }
             
             double media = notaTot / nota.Length;

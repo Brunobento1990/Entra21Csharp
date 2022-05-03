@@ -1,12 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "NvvaeErV3uFryFE4DXiiQtW/WUYTr4969uOO9nwh/fIIJzNUcLi6VMlthDS1bXnZa1T2V59Rn9EzVMMT5i24sQ==",
-=======
-  "dgSpecHash": "/d154Kl1Z8Pc4xy8MuYYZXdAcXa/pOA7+7Q64gqpGZI8JA3kX6R9860MbiqUZxljnh6f0ZNXcoM5kU42R4xdhw==",
->>>>>>> c3de1e39d2c7fe254cd3aa84aed5f04e071ec96f
   "success": true,
-  "projectFilePath": "D:\\CursoC\\Aula-C-Entra21\\Entra21Csharp\\Lopp's\\LoopLength\\LoopLength\\LoopLength.csproj",
+  "projectFilePath": "C:\\Repositorio\\MeusArquivos\\Entra21Csharp\\Lopp's\\LoopLength\\LoopLength\\LoopLength.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Repositorio\\MeusArquivos\\Entra21Csharp\\Lopp's\\LoopLength\\LoopLength\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

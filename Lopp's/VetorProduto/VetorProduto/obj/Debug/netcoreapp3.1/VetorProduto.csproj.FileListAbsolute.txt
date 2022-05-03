@@ -12,3 +12,17 @@ D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debu
 D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.dll
 D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.pdb
 D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.genruntimeconfig.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.exe
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.deps.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.runtimeconfig.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.runtimeconfig.dev.json
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\bin\Debug\netcoreapp3.1\VetorProduto.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.csproj.AssemblyReference.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.AssemblyInfoInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.AssemblyInfo.cs
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.csproj.CoreCompileInputs.cache
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.dll
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.pdb
+C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\VetorProduto\VetorProduto\obj\Debug\netcoreapp3.1\VetorProduto.genruntimeconfig.cache

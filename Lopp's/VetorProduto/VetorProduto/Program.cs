@@ -22,7 +22,7 @@ namespace VetorProduto
             for(int i = 0; i < Prod3.Length ; i++)
             {
                 Prod3[i] = Prod1[i] * Prod2[i];
-                Console.WriteLine("--> A mutiplicação dos prduto é : " + Prod3[i]);
+                Console.WriteLine("--> A mutiplicação dos produtos é : " + Prod3[i]);
             }
         }
     }

@@ -16,7 +16,7 @@ namespace LoopTexto
             }
             for(int i = 0;i < text.Length; i++)
             {
-                Console.WriteLine("--> -OU- " + text[i]);
+                Console.Write($"{text[i]} -OU- ");
             }
         }
     }
