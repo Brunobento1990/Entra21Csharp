@@ -12,3 +12,17 @@ C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancar
 C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.dll
 C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.pdb
 C:\Repositorio\MeusArquivos\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.genruntimeconfig.cache
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\bin\Debug\netcoreapp3.1\AppContaBancaria.exe
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\bin\Debug\netcoreapp3.1\AppContaBancaria.deps.json
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\bin\Debug\netcoreapp3.1\AppContaBancaria.runtimeconfig.json
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\bin\Debug\netcoreapp3.1\AppContaBancaria.runtimeconfig.dev.json
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\bin\Debug\netcoreapp3.1\AppContaBancaria.dll
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\bin\Debug\netcoreapp3.1\AppContaBancaria.pdb
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.csproj.AssemblyReference.cache
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.AssemblyInfoInputs.cache
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.AssemblyInfo.cs
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.csproj.CoreCompileInputs.cache
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.dll
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.pdb
+D:\CursoC\Aula-C-Entra21\Entra21Csharp\Lopp's\AppContaBancaria\AppContaBancaria\obj\Debug\netcoreapp3.1\AppContaBancaria.genruntimeconfig.cache

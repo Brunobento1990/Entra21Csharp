@@ -6,11 +6,11 @@ namespace AppContaBancaria
     {
         static void Main(string[] args)
         {
-            int saque, deposito, transfere;
+            double saque, deposito, transfere;
             string[] Usuario = new string[] { "Bruno", "Meri", "Lari", "Maria", "Caina", "João" };
-            int[] Valor = new int[] { 1000, 2000, 3000, 4000, 5000 };
+            double[] Valor = new double[] { 1000, 2000, 3000, 4000, 5000 };
             Console.WriteLine("---> MENU <--- \n\n --> Insira o número da operação\n \n 1 --> Sacar \n 2 --> Depositar \n 3 --> Transferir \n 0 --> Sair");
-            int opera = Convert.ToInt32(Console.ReadLine());
+            double opera = Convert.ToDouble(Console.ReadLine());
 
             if (opera == 0)
             {
@@ -18,14 +18,14 @@ namespace AppContaBancaria
             }
             if (opera == 1)
             {
-                Console.WriteLine("--> Insira seu nome :");
+                Console.WriteLine("--> Insira seu nome do usúario da conta !");
                 string nome = Console.ReadLine();
                 for (int i = 0; i < Usuario.Length; i++)
                 {
                     if (nome == Usuario[i])
                     {
-                        Console.WriteLine("--> Insira o valor a ser sacado ");
-                        saque = Convert.ToInt32(Console.ReadLine());
+                        Console.WriteLine("--> Insira o valor a ser sacado !");
+                        saque = Convert.ToDouble(Console.ReadLine());
                         if (saque > Valor[i])
                         {
                             Console.WriteLine("---> Saldo insuficiente !");
@@ -33,14 +33,14 @@ namespace AppContaBancaria
                         if (saque < Valor[i])
                         {
                             Valor[i] = Valor[i] - saque;
-                            //Console.WriteLine(Valor[i]);
+                            Console.WriteLine($" ---> A conta de { Usuario[i]} está com saldo atual de { Valor[i]}. ");
                         }
                     }
                 }
             }
             if (opera == 2)
             {
-                Console.WriteLine("---> Insira a conta a ser depositada !");
+                Console.WriteLine("---> Insira o nome do usuário da conta a ser depositada !");
                 string conta = Console.ReadLine();
                 for (int i = 0; i < Usuario.Length; i++)
                 {
@@ -48,45 +48,34 @@ namespace AppContaBancaria
                     if (conta == Usuario[i])
                     {
                         Console.WriteLine("---> insira o valor a ser depositado !");
-                        deposito = Convert.ToInt32(Console.ReadLine());
+                        deposito = Convert.ToDouble(Console.ReadLine());
                         Valor[i] = Valor[i] + deposito;
-                        //Console.WriteLine(Valor[i]);
+                        Console.WriteLine($"---> O usuário {Usuario[i]} recebeu um depósito de " + deposito + $" seu saldo atual é de {Valor[i]}");
                     }
 
                 }
             }
             if (opera == 3)
             {
-                Console.WriteLine("---> Insira a conta que sairá o valor !");
+                Console.WriteLine("---> Insira o usuário da conta que sairá o valor !");
                 string contaSair = Console.ReadLine();
-                Console.WriteLine("---> Agora insira a conta que receberá o valor !");
+                Console.WriteLine("---> Agora insira o usuário da conta que receberá o valor !");
                 string contaReceber = Console.ReadLine();
                 Console.WriteLine("---> Qual valor a ser transferido !");
-                transfere = Convert.ToInt32(Console.ReadLine());
+                transfere = Convert.ToDouble(Console.ReadLine());
 
-
-                for (int i = 0; i < Usuario.Length; i++)
+                for(int i =0;i < Usuario.Length; i++)
                 {
-                    for(int j = 0;j< Valor.Length; j++)
+                    if(contaSair == Usuario[i])
                     {
-                        if (transfere > Valor[j])
-                        {
-
-                        }
+                        Valor[i] = Valor[i] - transfere;
+                        Console.WriteLine($"---> Foi transferido do usuário {Usuario[i]} um valor de " + transfere + $" seu saldo atual é {Valor[i]}");
                     }
-
-                    //if (contaSair == Usuario[i])
-                    //{
-                    //    if (transfere < Valor[i])
-                    //    {
-                    //        Console.WriteLine("---> Saldo insuficiente !");
-                    //    }
-                    //    if (transfere > Valor[i])
-                    //    {
-                    //        //Valor[i] = Valor[i] + transfere;
-                    //        //Console.WriteLine(Valor[i]);
-                    //    }
-                    //}
+                    if(contaReceber == Usuario[i])
+                    {
+                        Valor[i] = Valor[i] + transfere;
+                        Console.WriteLine($"---> O usuário {Usuario[i]} recebeu uma transfêrencia de "+transfere+$" seu saldo atual é {Valor[i]}");
+                    }
                 }
             }
 
