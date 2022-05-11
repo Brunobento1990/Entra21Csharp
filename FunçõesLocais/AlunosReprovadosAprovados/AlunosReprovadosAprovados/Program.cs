@@ -6,11 +6,18 @@ namespace AlunosReprovadosAprovados
     {
         static void Main(string[] args)
         {
-            //Faça um programa que receba 10 notas de alunos e com funções verifique se o aluno reprovou ou passou, média 7
-            int[] teste = arrayNota();
-            compararNotas(teste[]);
+            //Faça um programa que receba 10 notas de alunos e com funções verifique se o aluno foi aprovado ou reprovado, média 7
+            //Retorne um array do tipo bool
+            
+            int[] Notas = ArrayNota();
+            bool[] ArrayBollNotas = VerificarNotas(Notas);
+            
+            for(int i = 0; i < ArrayBollNotas.Length; i++)
+            {
+                Console.WriteLine(ArrayBollNotas[i]);
+            }
         }
-        static int[] arrayNota()
+        static int[] ArrayNota()
         {
             int[] notas = new int[10];
             for(int i = 0;i < notas.Length; i++)
@@ -21,22 +28,18 @@ namespace AlunosReprovadosAprovados
             }
             return notas;
         }
-        static int compararNotas(teste)
+        static bool[] VerificarNotas(int[]Notas)
         {
-            int[] teste = new int[10];
-            bool aprov,reprov;
-            int retorno;
-            //int aprovado,reprovado;
-            for(int i =0;i < teste.Length; i++)
+            bool[] ArrayBoll = new bool[10];
+            bool aprov;
+            for(int i =0;i < Notas.Length; i++)
             {
-                aprov = teste[i] >= 7;
-                reprov = teste[i] < 7;
+                int nota = Notas[i];
+                aprov = nota >= 7;
+                ArrayBoll[i] = aprov;
             }
-            retorno = teste[];
-            return Console.WriteLine(retorno);
+            return ArrayBoll;
 
         }
-
-
     }
 }
