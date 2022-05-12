@@ -14,7 +14,7 @@ namespace AlunosReprovadosAprovados
             
             for(int i = 0; i < ArrayBollNotas.Length; i++)
             {
-                Console.WriteLine(ArrayBollNotas[i]);
+                Console.WriteLine($"Nota : {Notas[i]} : {ArrayBollNotas[i]}");
             }
         }
         static int[] ArrayNota()
