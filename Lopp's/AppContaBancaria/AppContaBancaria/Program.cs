@@ -9,18 +9,14 @@ namespace AppContaBancaria
             double saque, deposito,transfere;
             string[] Usuario = new string[] { "Bruno", "Meri", "Lari", "Maria", "Caina", "João" };
             double[] Valor = new double[] { 1000, 2000, 3000, 4000, 5000 };
-            double opera = 1;
-           
+            double opera ;
+            Console.WriteLine();
+            Console.WriteLine("---> MENU <--- \n\n --> Insira o número da operação\n \n 1 --> Sacar \n 2 --> Depositar \n 3 --> Transferir \n 0 --> Sair");
+            opera = Convert.ToDouble(Console.ReadLine());
+
             while (opera > 0)
             {
-                Console.WriteLine();
-                Console.WriteLine("---> MENU <--- \n\n --> Insira o número da operação\n \n 1 --> Sacar \n 2 --> Depositar \n 3 --> Transferir \n 0 --> Sair");
-                opera = Convert.ToDouble(Console.ReadLine());
-                if (opera == 0)
-                {
-                    Console.WriteLine();
-                    Console.WriteLine("--> Programa finalizado !");
-                }
+               
                 if (opera == 1)
                 {
                     Console.WriteLine("--> Insira seu nome do usúario da conta !");
@@ -92,6 +88,9 @@ namespace AppContaBancaria
                         }
                     }
                 }
+                Console.WriteLine();
+                Console.WriteLine("---> MENU <--- \n\n --> Insira o número da operação\n \n 1 --> Sacar \n 2 --> Depositar \n 3 --> Transferir \n 0 --> Sair");
+                opera = Convert.ToDouble(Console.ReadLine());
             }
         }
     }

@@ -11,11 +11,11 @@ namespace AlunosReprovadosAprovados
             
             int[] Notas = ArrayNota();
             bool[] ArrayBollNotas = VerificarNotas(Notas);
-            
-            for(int i = 0; i < ArrayBollNotas.Length; i++)
-            {
-                Console.WriteLine($"Nota : {Notas[i]} : {ArrayBollNotas[i]}");
-            }
+            EscreverNotas(Notas, ArrayBollNotas);
+            //for (int i = 0; i < ArrayBollNotas.Length; i++)
+            //{
+            //    Console.WriteLine($"Nota : {Notas[i]} -- {ArrayBollNotas[i]}");
+            //}
         }
         static int[] ArrayNota()
         {
@@ -34,12 +34,29 @@ namespace AlunosReprovadosAprovados
             bool aprov;
             for(int i =0;i < Notas.Length; i++)
             {
-                int nota = Notas[i];
-                aprov = nota >= 7;
+                //int nota = Notas[i];
+                aprov = Notas[i] >= 7;
                 ArrayBoll[i] = aprov;
             }
             return ArrayBoll;
 
+        }
+        static void EscreverNotas(int[] nota, bool[] aprovado)
+        {
+
+            for(int i = 0; i < nota.Length; i++)
+            {
+                //Console.WriteLine($"Nota : {nota[i]} : {aprovado[i]}");
+                if (aprovado[i] == true)
+                {
+                    Console.WriteLine($"Nota : {nota[i]} : Aprovado");
+                }
+                else
+                {
+                    Console.WriteLine($"Nota : {nota[i]} : Reprovado");
+                }
+            }
+            
         }
     }
 }
