@@ -14,7 +14,8 @@ namespace AlunosReprovadosAprovados
             EscreverNotas(Notas, ArrayBollNotas);
            
         }
-        static int[] ArrayNota()
+        // função que preenche array de notas
+        static int[] ArrayNota() 
         {
             int[] notas = new int[10];
             for(int i = 0;i < notas.Length; i++)
@@ -25,7 +26,8 @@ namespace AlunosReprovadosAprovados
             }
             return notas;
         }
-        static bool[] VerificarNotas(int[]Notas)
+        // Função que verifica alunos aprovados e reprovados
+        static bool[] VerificarNotas(int[]Notas) 
         {
             bool[] ArrayBoll = new bool[10];
             bool aprov;
@@ -38,6 +40,7 @@ namespace AlunosReprovadosAprovados
             return ArrayBoll;
 
         }
+        // Função que retona em tela alunos aprovados e reprovados
         static void EscreverNotas(int[] nota, bool[] aprovado)
         {
 
