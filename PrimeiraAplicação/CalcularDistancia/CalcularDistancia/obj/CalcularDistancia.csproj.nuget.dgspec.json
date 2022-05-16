@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\Repositorio\\MeusArquivos\\Entra21Csharp\\PrimeiraAplicação\\CalcularDistancia\\CalcularDistancia\\CalcularDistancia.csproj",
         "projectName": "CalcularDistancia",
         "projectPath": "C:\\Repositorio\\MeusArquivos\\Entra21Csharp\\PrimeiraAplicação\\CalcularDistancia\\CalcularDistancia\\CalcularDistancia.csproj",
-        "packagesPath": "C:\\Users\\guest01\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\bruno.goncalves4\\.nuget\\packages\\",
         "outputPath": "C:\\Repositorio\\MeusArquivos\\Entra21Csharp\\PrimeiraAplicação\\CalcularDistancia\\CalcularDistancia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\guest01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bruno.goncalves4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

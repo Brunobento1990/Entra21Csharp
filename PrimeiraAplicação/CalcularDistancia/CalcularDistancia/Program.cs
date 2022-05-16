@@ -24,7 +24,6 @@ namespace CalcularDistancia
             r22 = r2 * r2;
             tot1 = r11 + r22;
             tot2 = tot1 * tot1;
-
             Console.WriteLine("A distância é " + tot2 + " Km");
 
         }
