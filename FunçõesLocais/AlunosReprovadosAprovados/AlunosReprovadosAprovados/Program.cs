@@ -12,10 +12,7 @@ namespace AlunosReprovadosAprovados
             int[] Notas = ArrayNota();
             bool[] ArrayBollNotas = VerificarNotas(Notas);
             EscreverNotas(Notas, ArrayBollNotas);
-            //for (int i = 0; i < ArrayBollNotas.Length; i++)
-            //{
-            //    Console.WriteLine($"Nota : {Notas[i]} -- {ArrayBollNotas[i]}");
-            //}
+           
         }
         static int[] ArrayNota()
         {
