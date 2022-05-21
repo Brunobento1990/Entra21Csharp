@@ -21,12 +21,12 @@ namespace AdivinhaNumeroAle
                 
                 if (NumTentativa > num)
                 {
-                    Console.WriteLine("---> Seu número é maior !");
+                    Console.WriteLine("---> Seu número é maior que o número aleatório !");
                     Console.WriteLine();
                 }
                 if (NumTentativa < num)
                 {
-                    Console.WriteLine("---> Seu número é menor !");
+                    Console.WriteLine("---> Seu número é menor que o número aleatório !");
                     Console.WriteLine();
                 }
                 Console.WriteLine("---> Digite o número a ser comparado !!!");
