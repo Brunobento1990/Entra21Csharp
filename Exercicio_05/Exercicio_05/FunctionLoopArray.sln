@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.32407.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionLoopArray", "FunctionLoopArray\FunctionLoopArray.csproj", "{ED20391C-8463-4352-9841-A23C5053E437}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdivinhaNumeroAle", "AdivinhaNumeroAle\AdivinhaNumeroAle.csproj", "{0F2CE085-7C8D-4FE0-89B9-00093C49CE3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdivinhaNumeroAle", "AdivinhaNumeroAle\AdivinhaNumeroAle.csproj", "{0F2CE085-7C8D-4FE0-89B9-00093C49CE3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayOrdemInversa", "ArrayOrdemInversa\ArrayOrdemInversa.csproj", "{F5C33175-6E5A-44C2-89CF-224AC8C31DC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularMMC", "CalcularMMC\CalcularMMC.csproj", "{2A1F1E7F-20EE-4C95-9BE2-88431666DE31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{0F2CE085-7C8D-4FE0-89B9-00093C49CE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F2CE085-7C8D-4FE0-89B9-00093C49CE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F2CE085-7C8D-4FE0-89B9-00093C49CE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C33175-6E5A-44C2-89CF-224AC8C31DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C33175-6E5A-44C2-89CF-224AC8C31DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C33175-6E5A-44C2-89CF-224AC8C31DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C33175-6E5A-44C2-89CF-224AC8C31DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A1F1E7F-20EE-4C95-9BE2-88431666DE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1F1E7F-20EE-4C95-9BE2-88431666DE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1F1E7F-20EE-4C95-9BE2-88431666DE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1F1E7F-20EE-4C95-9BE2-88431666DE31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

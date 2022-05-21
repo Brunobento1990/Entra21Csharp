@@ -8,9 +8,9 @@ namespace FunctionLoopArray
         {
             double[] NotaSala = ArrayNotas();
             double[] SalaMediaMenor = NotaSalaTot(NotaSala);
-            double MediaSala = Math.Round(SalaMediaMenor[1],2), MenorNotaSala = Math.Round(SalaMediaMenor[0],2), MaiorNotaSala = Math.Round(SalaMediaMenor[2],2);
+            double MediaSala = Math.Round(SalaMediaMenor[1], 2), MenorNotaSala = Math.Round(SalaMediaMenor[0], 2), MaiorNotaSala = Math.Round(SalaMediaMenor[2], 2);
             Console.WriteLine($" ---> A média da sala é {MediaSala} e a nota menor da sala é {MenorNotaSala} e a nota maior é {MaiorNotaSala}");
-          
+
         }
         static double[] ArrayNotas()
         {
@@ -18,7 +18,7 @@ namespace FunctionLoopArray
             double[] Aluno1 = new double[10];
             double[] Aluno2 = new double[10];
             double[] NotaSala = new double[30];
-            double Nota,Contador = 1,Contador1 = 1, NotaMenor, Media, Tot,NotaMaior;
+            double Nota, Contador = 1, Contador1 = 1, NotaMenor, Media, Tot, NotaMaior;
             int P = 0;
             for (int i = 0; i < Aluno.Length; i++)
             {
@@ -78,35 +78,34 @@ namespace FunctionLoopArray
                 Console.WriteLine();
                 Contador1++;
             }
-            
-            
+
+
             return NotaSala;
         }
         static double[] NotaSalaTot(double[] NotaSala)
         {
-            double[] NotaSalaTot = new double[30];
+ 
             double[] NotaSalaMedia = new double[3];
-            double NotaMenor = 10,Notas = 0,NotaMaior = 0;
-            for (int i = 0; i < NotaSalaTot.Length; i++)
+            double NotaMenor = 10, Notas = 0, NotaMaior = 0;
+            for (int i = 0; i < NotaSala.Length; i++)
             {
-                NotaSalaTot[i] = NotaSala[i];
-                if (NotaMenor > NotaSalaTot[i])
+                
+                if (NotaMenor > NotaSala[i])
                 {
-                    NotaMenor = NotaSalaTot[i];
+                    NotaMenor = NotaSala[i];
                     NotaSalaMedia[0] = NotaMenor;
                 }
-                if (NotaMaior < NotaSalaTot[i])
+                if (NotaMaior < NotaSala[i])
                 {
-                    NotaMaior = NotaSalaTot[i];
+
+                    NotaMaior = NotaSala[i];
                     NotaSalaMedia[2] = NotaMaior;
                 }
 
-                Notas += NotaSalaTot[i];
+                Notas += NotaSala[i];
             }
-            NotaSalaMedia[1] = Notas / NotaSalaTot.Length;
+            NotaSalaMedia[1] = Notas / NotaSala.Length;
             return NotaSalaMedia;
         }
-       
-       
     }
 }

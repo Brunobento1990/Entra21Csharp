@@ -7,18 +7,24 @@ namespace AdivinhaNumeroAle
         static void Main(string[] args)
         {
             Random NumCerto = new Random();
-            int Tentativa = 1, num = NumCerto.Next(1,10);
+            int num = NumCerto.Next(1,10);
             Console.WriteLine("---> Digite o número a ser comparado !!!");
             int NumTentativa = Convert.ToInt32(Console.ReadLine());
-            while(num != NumTentativa)
+            int FunctionJogo = JogoNume(num, NumTentativa);
+            Console.WriteLine($"---> O número certo é {FunctionJogo}");
+        }
+        static int JogoNume(int num, int NumTentativa)
+        {
+            int Tentativa = 1;
+            while (num != NumTentativa)
             {
-
-                if(NumTentativa > num)
+                
+                if (NumTentativa > num)
                 {
                     Console.WriteLine("---> Seu número é maior !");
                     Console.WriteLine();
                 }
-                if(NumTentativa < num)
+                if (NumTentativa < num)
                 {
                     Console.WriteLine("---> Seu número é menor !");
                     Console.WriteLine();
@@ -29,6 +35,8 @@ namespace AdivinhaNumeroAle
             }
 
             Console.WriteLine($"---> Você Acertou com {Tentativa} tentativas");
+            Console.WriteLine();
+            return NumTentativa;
         }
     }
 }
