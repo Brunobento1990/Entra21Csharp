@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionLoopArray", "Functi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdivinhaNumeroAle", "AdivinhaNumeroAle\AdivinhaNumeroAle.csproj", "{0F2CE085-7C8D-4FE0-89B9-00093C49CE3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayOrdemInversa", "ArrayOrdemInversa\ArrayOrdemInversa.csproj", "{F5C33175-6E5A-44C2-89CF-224AC8C31DC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayOrdemInversa", "ArrayOrdemInversa\ArrayOrdemInversa.csproj", "{F5C33175-6E5A-44C2-89CF-224AC8C31DC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularMMC", "CalcularMMC\CalcularMMC.csproj", "{2A1F1E7F-20EE-4C95-9BE2-88431666DE31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcularMMC", "CalcularMMC\CalcularMMC.csproj", "{2A1F1E7F-20EE-4C95-9BE2-88431666DE31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculaMDC", "CalculaMDC\CalculaMDC.csproj", "{78272FCF-64CA-4C13-8B6A-686950C9E644}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{2A1F1E7F-20EE-4C95-9BE2-88431666DE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A1F1E7F-20EE-4C95-9BE2-88431666DE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A1F1E7F-20EE-4C95-9BE2-88431666DE31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78272FCF-64CA-4C13-8B6A-686950C9E644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78272FCF-64CA-4C13-8B6A-686950C9E644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78272FCF-64CA-4C13-8B6A-686950C9E644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78272FCF-64CA-4C13-8B6A-686950C9E644}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
