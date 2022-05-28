@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CalcularMMC
+namespace CalcularMDC
 {
     class Program
     {
